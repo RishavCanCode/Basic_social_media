@@ -1,0 +1,12 @@
+.ProfileMainPostContainer{
+    flex: 3;
+    
+}
+
+.ProfileCoverimage{
+    width: 98%;
+    border-radius: 5px;
+    height: 20vh;
+    object-fit:cover;
+    margin-top: 20px;
+}
